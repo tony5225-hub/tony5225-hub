@@ -4,12 +4,14 @@
 💻 Desenvolvedor em aprendizado e apaixonado por tecnologia.
 
 ## 📊 Estatísticas
+
 <div align="center">
-<img height="120" src="./profile/stats.svg">
-<img height="120" src="./profile/top-langs.svg">
+<img height="130" src="./profile/stats.svg">
+<img height="130" src="./profile/top-langs.svg">
 </div>
 
 ## 🛠️ Tecnologias
+
 <div align="center">
 <img height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,9 +19,11 @@
 </div>
 
 ## 📚 Estudando
+
 JavaScript • HTML5 • CSS3 • Lógica • Git e GitHub
 
 ## 🚀 Projetos
+
 👉 [Meu GitHub](https://github.com/tony5225-hub)
 
 ⭐ Obrigado pela visita!
