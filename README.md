@@ -1,58 +1,33 @@
-<div align="center">
-
-# 👋 Olá! Eu sou Tony
+```markdown
+# 👋 Olá, eu sou Tony!
 
 💻 Desenvolvedor em aprendizado e apaixonado por tecnologia.
 
-</div>
-
----
-
-## 📊 Minhas estatísticas
+## 📊 Estatísticas
 
 <div align="center">
-
-<a href="https://github.com/tony5225-hub">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tony5225-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony5225-hub&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</a>
-
+<img height="150em" src="./profile/stats.svg">
+<img height="150em" src="./profile/top-langs.svg">
 </div>
-
----
 
 ## 🛠️ Tecnologias
 
 <div align="center">
-
-<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+<img height="30" width="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img height="30" width="40" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img height="30" width="40" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
----
+## 📚 Estudando
 
-## 📚 Atualmente estudando
+JavaScript • HTML5 • CSS3 • Lógica de programação • Git e GitHub
 
-* JavaScript
-* HTML5
-* CSS3
-* Lógica de programação
-* Git e GitHub
+## 🚀 Projetos
 
----
+👉 [Meu GitHub](https://github.com/tony5225-hub)
 
-<div align="center">
-
-### 🚀 Obrigado pela visita!
-
-</div>
+⭐ Obrigado pela visita!
+```
 
 </div>
  
