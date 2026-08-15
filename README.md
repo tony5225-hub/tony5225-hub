@@ -1,9 +1,11 @@
-<div>
+<p align="center">
   <a href="https://github.com/tony5225-hub">
-    <img width="25%" src="https://github-readme-stats.vercel.app/api?username=tony5225-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony5225-hub&layout=compact&langs_count=6&theme=tokyonight" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tony5225-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas gerais" />
   </a>
-</div>
+  <a href="https://github.com/tony5225-hub">
+    <img width="49%" src="https://github-readme-stats-piechart.vercel.app/api?username=tony5225-hub&theme=tokyonight" alt="GitHub Language Pie Chart" />
+  </a>
+</p>
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
