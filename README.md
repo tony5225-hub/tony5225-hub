@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/tony5225-hub">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tony5225-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas Gerais do tony5225-hub" />
+    <img width="25%" src="https://github-readme-stats.vercel.app/api?username=tony5225-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas Gerais do tony5225-hub" />
     <img width="49%" src="https://github-readme-stats-piechart.vercel.app/api?username=tony5225-hub&theme=tokyonight" alt="GitHub Language Pie Chart" />
   </a>
 </div>
