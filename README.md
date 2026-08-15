@@ -1,4 +1,4 @@
-```markdown
+
 # 👋 Olá, eu sou Tony!
 
 💻 Desenvolvedor em aprendizado e apaixonado por tecnologia.
