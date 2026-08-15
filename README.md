@@ -1,35 +1,15 @@
-
-# 👋 Olá, eu sou Tony!
-
-💻 Desenvolvedor em aprendizado e apaixonado por tecnologia.
-
-## 📊 Estatísticas
-
-<div align="center">
-<img height="130" src="./profile/stats.svg">
-<img height="130" src="./profile/top-langs.svg">
+<div>
+  <a href="https://github.com/tony5225-hub">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tony5225-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony5225-hub&layout=compact&langs_count=6&theme=tokyonight" />
+  </a>
 </div>
 
-## 🛠️ Tecnologias
-
-<div align="center">
-<img height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div style="display: inline-block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-## 📚 Estudando
-
-JavaScript • HTML5 • CSS3 • Lógica • Git e GitHub
-
-## 🚀 Projetos
-
-👉 [Meu GitHub](https://github.com/tony5225-hub)
-
-⭐ Obrigado pela visita!
-```
-
-
 
 </div>
  
