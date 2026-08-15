@@ -1,18 +1,46 @@
-<p align="center">
+<div align="center">
   <a href="https://github.com/tony5225-hub">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tony5225-hub&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas Gerais" />
-  </a>
-  <a href="https://github.com/tony5225-hub">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony5225-hub&layout=pie&theme=tokyonight" alt="Linguagens mais usadas" />
-  </a>
-</p>
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=tony5225-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"
+      alt="Estatísticas do GitHub de tony5225-hub"
+    />
 
-<p align="center">
-  <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</p>
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony5225-hub&layout=pie&langs_count=6&theme=tokyonight"
+      alt="Linguagens mais utilizadas"
+    />
+  </a>
+</div>
 
+<br>
+
+<div align="center">
+  <img
+    align="center"
+    alt="JavaScript"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  />
+
+  <img
+    align="center"
+    alt="HTML5"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+  />
+
+  <img
+    align="center"
+    alt="CSS3"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  />
+</div>
 </div>
  
  <br>
