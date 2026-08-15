@@ -6,11 +6,6 @@
       alt="Estatísticas do GitHub de tony5225-hub"
     />
 
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony5225-hub&layout=pie&langs_count=6&theme=tokyonight"
-      alt="Linguagens mais utilizadas"
-    />
   </a>
 </div>
 
